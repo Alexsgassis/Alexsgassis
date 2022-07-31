@@ -3,7 +3,6 @@
 - 🚎 Trabalhando na Expresso Real Rio (Rodoviário)
 - 📚 Hoje estudando front-end
 - 💻 Cursando Bacharel em Sistemas de Informação
-- 😄 Pronouns: ele/dele
 ##
   <div align="center">
     <a href="https://github.com/Alexsgassis">
