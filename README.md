@@ -1,8 +1,8 @@
 ## Olá! Eu sou Alexsandro Gomes 🖐
 
 - 🚎 Trabalhando na Expresso Real Rio (Rodoviário)
-- 📚 Hoje estudando front-end
-- 💻 Cursando Bacharel em Sistemas de Informação
+- 📚 front-end Developer
+- 💻 Bacharel em Sistemas de Informação
 ##
   <div align="center">
     <a href="https://github.com/Alexsgassis">
